@@ -255,6 +255,7 @@ footer p > a:hover{
 @media (max-width: 440px){
 	header img{
 		width: 84px;
+		padding: 10px 0;
 	}
 }
 
