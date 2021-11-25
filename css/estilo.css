@@ -57,22 +57,24 @@ section #formulario{
 	width: 310px;
 	height: 48px;
 	border-radius: 5px;
-	border: 0 auto; /*tira a borda*/
+	border: 0; /*tira a borda*/
 	outline: 0;  /*tira a borda de foco quando clicado*/
 	margin-bottom: 15px;
 	background-color: #333333;
 	color: #fff;
 	font-size: 16px;
+	padding-left: 10px;
 }
 
 #formulario button{
 	width: 314px;
 	height: 48px;
 	border-radius: 5px;
-	border: 0 auto; /*tira a borda*/
+	border: 0; /*tira a borda*/
 	outline: 0;  /*tira a borda de foco quando clicado*/
 	margin-top: 15px;
 	background-color: red;
+	cursor: pointer;
 }
 
 
